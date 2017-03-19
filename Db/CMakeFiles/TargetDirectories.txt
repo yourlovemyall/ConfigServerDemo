@@ -1,0 +1,3 @@
+/Users/xuxiaoyu/ClionProjects/commonconfig/Db/CMakeFiles/edit_cache.dir
+/Users/xuxiaoyu/ClionProjects/commonconfig/Db/CMakeFiles/rebuild_cache.dir
+/Users/xuxiaoyu/ClionProjects/commonconfig/Db/CMakeFiles/Db.dir

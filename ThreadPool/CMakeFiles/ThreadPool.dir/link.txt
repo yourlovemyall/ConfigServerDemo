@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc /Users/xuxiaoyu/ClionProjects/commonconfig/lib/libThreadPool.a  CMakeFiles/ThreadPool.dir/CThreadManage.cpp.o CMakeFiles/ThreadPool.dir/CThreadPool.cpp.o CMakeFiles/ThreadPool.dir/CWorkerThread.cpp.o CMakeFiles/ThreadPool.dir/CThread.cpp.o CMakeFiles/ThreadPool.dir/CJob.cpp.o CMakeFiles/ThreadPool.dir/CThreadMutex.cpp.o CMakeFiles/ThreadPool.dir/CCondition.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib /Users/xuxiaoyu/ClionProjects/commonconfig/lib/libThreadPool.a
